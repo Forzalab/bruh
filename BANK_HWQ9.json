@@ -1,0 +1,311 @@
+{
+ "v": 1,
+ "problems": [
+  {
+   "code": "PHYS_ADG",
+   "title": "QUIZ 09 #5 — Satellite at altitude: period, speed, acceleration",
+   "type": "mc",
+   "body": [
+    {
+     "type": "text",
+     "md": [
+      "A satellite is in a circular orbit around the Earth at an altitude of $2.58\\times 10^{6}\\ \\text{m}$.",
+      "",
+      "Find (a) the period in hours, (b) the speed in km/s, (c) the acceleration toward the center of the Earth.",
+      "",
+      "$R_E = 6.38\\times 10^{6}\\ \\text{m}$, $M_E = 5.98\\times 10^{24}\\ \\text{kg}$."
+     ]
+    }
+   ],
+   "choices": [
+    {
+     "id": "a",
+     "md": "$T=2.34\\ \\text{h}$, $v=6.67\\ \\text{km/s}$, $a=4.97\\ \\text{m/s}^2$"
+    },
+    {
+     "id": "b",
+     "md": "$T=0.362\\ \\text{h}$, $v=12.4\\ \\text{km/s}$, $a=60\\ \\text{m/s}^2$"
+    },
+    {
+     "id": "c",
+     "md": "$T=1.41\\ \\text{h}$, $v=7.91\\ \\text{km/s}$, $a=9.8\\ \\text{m/s}^2$"
+    },
+    {
+     "id": "d",
+     "md": "$T=2.34\\ \\text{h}$, $v=6.67\\ \\text{km/s}$, $a=9.8\\ \\text{m/s}^2$"
+    },
+    {
+     "id": "e",
+     "md": "$T=141\\ \\text{h}$, $v=6.67\\ \\text{km/s}$, $a=4.97\\ \\text{m/s}^2$"
+    }
+   ],
+   "correct": "a",
+   "wrong": [
+    {
+     "choice": "b",
+     "error": "misread",
+     "hint": "QUACK. Where is the center of the orbit? Measure r from there."
+    },
+    {
+     "choice": "c",
+     "error": "misread",
+     "hint": "QUACK. Read the problem again. What does 'altitude' add to the picture?"
+    },
+    {
+     "choice": "d",
+     "error": "other",
+     "hint": "QUACK. Is g still 9.80 up there? Ask Newton, not the sticky note."
+    },
+    {
+     "choice": "e",
+     "error": "units",
+     "hint": "QUACK. Check (a). What unit did your seconds turn into?"
+    }
+   ]
+  },
+  {
+   "code": "PHYS_FA5",
+   "title": "HW 09 #15 — Period 132 min: altitude and g there",
+   "type": "mc",
+   "body": [
+    {
+     "type": "text",
+     "md": [
+      "An artificial satellite circling the Earth completes each orbit in $132$ minutes.",
+      "",
+      "(a) Find the altitude of the satellite. (b) What is the value of $g$ at the location of this satellite?",
+      "",
+      "$R_E = 6.38\\times 10^{6}\\ \\text{m}$, $M_E = 5.98\\times 10^{24}\\ \\text{kg}$."
+     ]
+    }
+   ],
+   "choices": [
+    {
+     "id": "a",
+     "md": "altitude $= 2.211\\times 10^{6}\\ \\text{m}$, $g = 81.6\\ \\text{m/s}^2$"
+    },
+    {
+     "id": "b",
+     "md": "altitude $= 1.253\\times 10^{8}\\ \\text{m}$, $g = 0.023\\ \\text{m/s}^2$"
+    },
+    {
+     "id": "c",
+     "md": "altitude $= 2.211\\times 10^{6}\\ \\text{m}$, $g = 5.41\\ \\text{m/s}^2$"
+    },
+    {
+     "id": "d",
+     "md": "altitude $= 8.591\\times 10^{6}\\ \\text{m}$, $g = 5.41\\ \\text{m/s}^2$"
+    },
+    {
+     "id": "e",
+     "md": "altitude $= 2.211\\times 10^{6}\\ \\text{m}$, $g = 9.8\\ \\text{m/s}^2$"
+    }
+   ],
+   "correct": "c",
+   "wrong": [
+    {
+     "choice": "a",
+     "error": "misread",
+     "hint": "QUACK. In $GM/r^2$, r is measured from where?"
+    },
+    {
+     "choice": "b",
+     "error": "units",
+     "hint": "QUACK. 132 of what? Convert before you cube-root anything."
+    },
+    {
+     "choice": "d",
+     "error": "misread",
+     "hint": "QUACK. Kepler hands you r. The question asks something else. What?"
+    },
+    {
+     "choice": "e",
+     "error": "other",
+     "hint": "QUACK. Same g at every height? Then why does the Moon not fall in at 9.8?"
+    }
+   ]
+  },
+  {
+   "code": "PHYS_JKH",
+   "title": "HW 09 #9 — Stuntman on a rope: tension at three points",
+   "type": "mc",
+   "body": [
+    {
+     "type": "text",
+     "md": [
+      "A stuntman whose mass is $59\\ \\text{kg}$ swings from the end of a $4.3\\ \\text{m}$ long rope along the arc of a vertical circle. He starts from rest when the rope is horizontal.",
+      "",
+      "Find the tension in the rope (a) at the beginning of his motion, (b) at a height of $1.5\\ \\text{m}$ above the bottom of the arc, (c) at the bottom of the arc. Give kN."
+     ]
+    }
+   ],
+   "choices": [
+    {
+     "id": "a",
+     "md": "(a) $0$ kN, (b) $0.753$ kN, (c) $1.73$ kN"
+    },
+    {
+     "id": "b",
+     "md": "(a) $0.578$ kN, (b) $1.13$ kN, (c) $1.73$ kN"
+    },
+    {
+     "id": "c",
+     "md": "(a) $0$ kN, (b) $1.19$ kN, (c) $1.73$ kN"
+    },
+    {
+     "id": "d",
+     "md": "(a) $0$ kN, (b) $1.13$ kN, (c) $1.73$ kN"
+    },
+    {
+     "id": "e",
+     "md": "(a) $0$ kN, (b) $1.13$ kN, (c) $1.16$ kN"
+    }
+   ],
+   "correct": "d",
+   "wrong": [
+    {
+     "choice": "a",
+     "error": "incomplete",
+     "hint": "QUACK. Sum the forces along the rope. Gravity has a vote there too."
+    },
+    {
+     "choice": "b",
+     "error": "misread",
+     "hint": "QUACK. At the start, he is at rest and the rope is horizontal. Which force points along the rope there?"
+    },
+    {
+     "choice": "c",
+     "error": "components",
+     "hint": "QUACK. Draw the rope at that height. Which trig function gives gravity's part ALONG the rope?"
+    },
+    {
+     "choice": "e",
+     "error": "other",
+     "hint": "QUACK. At the bottom: how fast is he? Energy first, then the circle."
+    }
+   ]
+  },
+  {
+   "code": "PHYS_DW6",
+   "title": "QUIZ 09 #3 — Loop: release height and normal force difference",
+   "type": "mc",
+   "body": [
+    {
+     "type": "text",
+     "md": [
+      "A roller-coaster track has a circular loop of radius $R$ in a vertical plane. A car of mass $m$ starts from rest at height $h$ above the bottom of the loop. No friction.",
+      "",
+      "(a) The car barely makes it around (riders feel weightless at the top). Find $h$.",
+      "",
+      "(b) For any release above that minimum, find $N_B - N_T$ (bottom minus top)."
+     ]
+    }
+   ],
+   "choices": [
+    {
+     "id": "a",
+     "md": "$h = \\tfrac{3}{2}R$, $N_B - N_T = 6mg$"
+    },
+    {
+     "id": "b",
+     "md": "$h = 2R$, $N_B - N_T = 6mg$"
+    },
+    {
+     "id": "c",
+     "md": "$h = \\tfrac{5}{2}R$, $N_B - N_T = 6mg$"
+    },
+    {
+     "id": "d",
+     "md": "$h = \\tfrac{5}{2}R$, $N_B - N_T = 2mg$"
+    },
+    {
+     "id": "e",
+     "md": "$h = \\tfrac{5}{2}R$, $N_B - N_T = 4mg$"
+    }
+   ],
+   "correct": "c",
+   "wrong": [
+    {
+     "choice": "a",
+     "error": "sign",
+     "hint": "QUACK. Where is the top of the loop measured from? Draw it."
+    },
+    {
+     "choice": "b",
+     "error": "incomplete",
+     "hint": "QUACK. At the top, the car still moves. Where did that kinetic energy come from?"
+    },
+    {
+     "choice": "d",
+     "error": "incomplete",
+     "hint": "QUACK. The car is faster at the bottom than at the top. Did that make it into your difference?"
+    },
+    {
+     "choice": "e",
+     "error": "sign",
+     "hint": "QUACK. Write Newton at top and at bottom. Which way does $mg$ point in each, relative to center?"
+    }
+   ]
+  },
+  {
+   "code": "PHYS_BPY",
+   "title": "HW 09 #1 — Swinging cord at 26°: tension and accelerations",
+   "type": "mc",
+   "body": [
+    {
+     "type": "text",
+     "md": [
+      "One end of a cord is fixed and a small $0.400\\ \\text{kg}$ object swings on the other end in a vertical circle of radius $3.00\\ \\text{m}$. When $\\theta = 26.0^\\circ$ (cord from vertical), the speed is $6.00\\ \\text{m/s}$.",
+      "",
+      "Find (a) the tension, (b) $a_r$ and $a_t$, (c) the total acceleration and its angle below the cord, (d) is the answer changed if the object swings down instead of up?"
+     ]
+    }
+   ],
+   "choices": [
+    {
+     "id": "a",
+     "md": "$T=8.32$ N; $a_r=12$, $a_t=4.3$ m/s²; $a=12.7$ m/s² at $19.7^\\circ$; (d) No"
+    },
+    {
+     "id": "b",
+     "md": "$T=8.32$ N; $a_r=12$, $a_t=4.3$ m/s²; $a=12.7$ m/s² at $19.7^\\circ$; (d) Yes"
+    },
+    {
+     "id": "c",
+     "md": "$T=1.28$ N; $a_r=12$, $a_t=4.3$ m/s²; $a=12.7$ m/s² at $19.7^\\circ$; (d) No"
+    },
+    {
+     "id": "d",
+     "md": "$T=6.52$ N; $a_r=12$, $a_t=8.81$ m/s²; $a=14.9$ m/s² at $36.3^\\circ$; (d) No"
+    },
+    {
+     "id": "e",
+     "md": "$T=8.32$ N; $a_r=12$, $a_t=4.3$ m/s²; $a=12.7$ m/s² at $70.3^\\circ$; (d) No"
+    }
+   ],
+   "correct": "a",
+   "wrong": [
+    {
+     "choice": "b",
+     "error": "other",
+     "hint": "QUACK. Does the formula care which way it moves, or only where it is and how fast?"
+    },
+    {
+     "choice": "c",
+     "error": "sign",
+     "hint": "QUACK. Radial direction: toward the center. Which way does gravity's radial part point at θ?"
+    },
+    {
+     "choice": "d",
+     "error": "components",
+     "hint": "QUACK. Draw θ from the vertical. Which leg of the triangle is along the cord?"
+    },
+    {
+     "choice": "e",
+     "error": "misread",
+     "hint": "QUACK. 'Below the cord.' Measured from which line?"
+    }
+   ]
+  }
+ ]
+}
