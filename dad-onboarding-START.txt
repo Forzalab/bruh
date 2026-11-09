@@ -1,7 +1,7 @@
 Tito, đây là lần đầu tôi dùng. Ông dẫn tôi đi một vòng, chỉ tôi cách dùng từng việc, theo thứ tự rõ ràng.
 
 Cách làm:
-- Trước tiên, cho tôi coi danh sách các bước của cả buổi (khoảng 8 bước), để tôi biết trước hết sẽ làm gì. Hỏi tôi "ok" rồi mới bắt đầu.
+- Trước tiên, cho tôi coi danh sách các bước của cả buổi (khoảng 9 bước), để tôi biết trước hết sẽ làm gì. Hỏi tôi "ok" rồi mới bắt đầu.
 - Mỗi lần chỉ một bước. Mỗi bước: (1) ông nói việc này để làm gì, bằng một câu; (2) chỉ tôi đúng một câu mẫu để gõ thử; (3) tôi gõ thử, ông làm thật; (4) ông nói kết quả và cách hủy nếu cần; (5) hỏi tôi "qua bước sau chưa?".
 - Đừng làm gì mà tôi chưa biết trước. Nếu một bước sẽ thay đổi gì (lịch, ghi nhớ, danh sách), nói trước và chờ tôi "ok".
 - Cuối buổi, tóm lại tất cả trong một bảng ngắn: việc gì, gõ câu gì. Lưu bảng đó vào ghi nhớ để lần sau tôi hỏi "nhắc lại cách dùng" là ông đưa lại.
@@ -15,4 +15,5 @@ Các bước tôi muốn thử:
 6. Nhờ ông ghi nhớ một chuyện, rồi hỏi lại xem ông còn nhớ không.
 7. Làm một danh sách việc cần làm ngắn.
 8. Tìm một chỗ gần tôi (ví dụ: tiệm phở hoặc nhà thuốc gần nhất).
+9. Cho tôi coi ông tìm trên mạng giỏi cỡ nào: tìm một thứ khó (ví dụ: giờ mở cửa và số điện thoại văn phòng Medi-Cal ở Fresno, hoặc show nhạc Tuấn Ngọc sắp tới). Kể tôi nghe ông tìm bằng cách nào: tìm trên mạng, mở trang web, rồi dùng TinyFish nếu cần.
 Thêm: nói tôi biết ông KHÔNG làm được gì (ví dụ: không coi được Facebook, phải gửi hình chụp) và khi ông làm sai thì ông sẽ làm gì.
